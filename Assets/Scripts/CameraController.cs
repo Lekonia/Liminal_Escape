@@ -11,6 +11,7 @@ public class CameraController : MonoBehaviour
 
     [SerializeField] bool drawGizmo = false;
     [SerializeField] float rayCastDistance = 2.0f;
+    [SerializeField] float fieldOfView = 60.0f;
 
     private float rotationX = 0.0f;
     private float rotationY = 0.0f;
@@ -23,19 +24,24 @@ public class CameraController : MonoBehaviour
         rotationX = Mathf.Clamp(rotationX, clampAngleUp, clampAngleDown);
 
         transform.eulerAngles = new Vector3(rotationX, rotationY, 0);
-
-        if (drawGizmo)
-        {
-            Debug.DrawRay(transform.position, transform.forward * rayCastDistance, Color.cyan);
-        }
     }
 
     void OnDrawGizmos()
     {
         if (drawGizmo)
         {
+            Vector3 frontRayPoint = transform.position + transform.forward * rayCastDistance;
+            Vector3 leftRayPoint = transform.position + Quaternion.Euler(0, -fieldOfView * 0.5f, 0) * transform.forward * rayCastDistance;
+            Vector3 rightRayPoint = transform.position + Quaternion.Euler(0, fieldOfView * 0.5f, 0) * transform.forward * rayCastDistance;
+
             Gizmos.color = Color.cyan;
+
             Gizmos.DrawRay(transform.position, transform.forward * rayCastDistance);
+            Gizmos.DrawRay(transform.position, Quaternion.Euler(0, -fieldOfView * 0.5f, 0) * transform.forward * rayCastDistance);
+            Gizmos.DrawRay(transform.position, Quaternion.Euler(0, fieldOfView * 0.5f, 0) * transform.forward * rayCastDistance);
+
+            Gizmos.DrawLine(frontRayPoint, leftRayPoint);
+            Gizmos.DrawLine(frontRayPoint, rightRayPoint);
         }
     }
 }
