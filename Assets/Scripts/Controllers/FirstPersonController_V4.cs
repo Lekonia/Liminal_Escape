@@ -7,40 +7,45 @@ public class FirstPersonController_V4 : MonoBehaviour
     [Header("Movement")]
     [SerializeField] float movementSpeed = 5.0f;
 
+    [Header("Interaction")]
+    [SerializeField] KeyCode interactKey = KeyCode.E;
+    
+    public float interactDistance = 2.0f;
+
     [Header("Camera")]
+    [SerializeField] Transform cameraTransform;
     [SerializeField] float mouseSensitivity = 5.0f;
     [SerializeField] float clampAngleUp = -30.0f;
     [SerializeField] float clampAngleDown = 30.0f;
-
-    private Rigidbody rb;
-    private Camera playerCamera;
 
     private float rotationX = 0f;
     private float rotationY = 0f;
 
     private void Start()
     {
-        rb = GetComponent<Rigidbody>();
-        playerCamera = GetComponentInChildren<Camera>();
-
-        if (rb == null)
-        {
-            rb = gameObject.AddComponent<Rigidbody>();
-        }
-
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
     }
 
     private void Update()
     {
+        Move();
+        Look();
+        Interact();
+    }
+
+    void Move()
+    {
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
 
         Vector3 movement = transform.forward * vertical + transform.right * horizontal;
         movement = movement.normalized * movementSpeed * Time.deltaTime;
-        rb.MovePosition(rb.position + movement);
+        transform.position += movement;
+    }
 
+    void Look()
+    {
         float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity;
         float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity;
 
@@ -49,7 +54,25 @@ public class FirstPersonController_V4 : MonoBehaviour
 
         rotationX = Mathf.Clamp(rotationX, clampAngleUp, clampAngleDown);
 
-        playerCamera.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
+        cameraTransform.localRotation = Quaternion.Euler(rotationX, 0f, 0f);
         transform.eulerAngles = new Vector3(0, rotationY, 0);
+    }
+
+    void Interact()
+    {
+        if (Input.GetKeyDown(interactKey))
+        {
+            RaycastHit hit;
+
+            if (Physics.Raycast(cameraTransform.position, cameraTransform.forward, out hit, interactDistance))
+            {
+                InteractableObject obj = hit.collider.GetComponent<InteractableObject>();
+
+                if (obj != null)
+                {
+                    obj.Interact();
+                }
+            }
+        }
     }
 }
