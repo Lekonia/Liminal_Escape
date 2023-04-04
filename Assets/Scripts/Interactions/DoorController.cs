@@ -4,25 +4,46 @@ using UnityEngine;
 
 public class DoorController : MonoBehaviour
 {
-    public float openAngle = 90.0f;
-    public float closeAngle = 0.0f;
-    public float smooth = 2.0f;
-    public bool isOpen = false;
+    [SerializeField] bool isOpen = false;
+    [SerializeField] Animator anim;
 
-    public void OpenDoor()
+    bool isAnimating = false;
+
+    public void Interact()
     {
-        isOpen = true;
+        if (isAnimating)
+        {
+            Debug.Log("Door is currently animating. Interaction ignored.");
+            return;
+        }
+
+        isAnimating = true;
+
+        if (isOpen)
+        {
+            Debug.Log("Door is now open");
+            isOpen = true;
+
+            // Set CanCloseDoor parameter to true so player can close the door
+            anim.SetBool("CanCloseDoor", false);
+            Debug.Log("CanCloseDoor set to false");
+            anim.Play("OpenDoor");
+        }
+
+        else
+        {
+            Debug.Log("Door is now open");
+            isOpen = false;
+
+            //Set CanCloseDoor parameter to true so player can close the door
+            anim.SetBool("CanCloseDoor", true);
+            anim.Play("CloseDoor");
+        }
     }
 
-    public void CloseDoor()
+    public void AnimationFinished()
     {
-        isOpen = false;
-    }
-
-    private void Update()
-    {
-        float targetAngle = isOpen ? openAngle : closeAngle;
-        Quaternion targetRotation = Quaternion.Euler(0, targetAngle, 0);
-        transform.localRotation = Quaternion.Slerp(transform.localRotation, targetRotation, smooth * Time.deltaTime);
+        Debug.Log("Door animation finished.");
+        isAnimating = false;
     }
 }

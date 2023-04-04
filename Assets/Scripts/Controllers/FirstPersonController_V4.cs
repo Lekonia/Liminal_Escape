@@ -72,6 +72,13 @@ public class FirstPersonController_V4 : MonoBehaviour
                 {
                     obj.Interact();
                 }
+
+                DoorController door = hit.collider.GetComponent<DoorController>();
+
+                if (door != null)
+                {
+                    door.Interact();
+                }
             }
         }
     }
