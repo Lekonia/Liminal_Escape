@@ -7049,7 +7049,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1621423270}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.125, z: 2}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7776,8 +7776,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hallwayPrefab: {fileID: 5570687878625681236, guid: a2fec3030885f4d49a205a20ad63535f,
     type: 3}
-  numExtensions: 1
-  extensionDirection: {x: 0, y: 0, z: 28}
+  numExtensions: 5
+  extensionDirection: {x: 0, y: 0, z: 1}
+  extensionDistance: 3
   startingPoint: {fileID: 1621423271}
 --- !u!114 &1791364267
 MonoBehaviour:
