@@ -25,6 +25,7 @@ public class TriggerLightSequence : MonoBehaviour
             yield return new WaitForSeconds(timeBetweenLights);
             lightsToTrigger[currentLightIndex].enabled = false;
             currentLightIndex++;
+            Debug.Log("Lights are meant to go off at this point.");
         }
 
         currentLightIndex = 0; 
