@@ -5,27 +5,21 @@ using UnityEngine;
 public class FlickerLight : MonoBehaviour
 {
     [SerializeField] private Light lightToFlicker;
-    [SerializeField] private float minIntensity;
-    [SerializeField] private float maxIntensity;
-    [SerializeField] private float flickerSpeed;
+    [SerializeField] private float intensityScale = 1f;
+    [SerializeField] private float frequencyScale = 1f;
+    [SerializeField] private float timeScale = 1f;
 
-    private float targetIntensity;
+    private float baseIntensity;
 
     private void Start()
     {
-        targetIntensity = lightToFlicker.intensity;
+        baseIntensity = lightToFlicker.intensity;
     }
 
     private void Update()
     {
-        targetIntensity = Random.Range(minIntensity, maxIntensity);
-        lightToFlicker.intensity = Mathf.Lerp(lightToFlicker.intensity, targetIntensity, Time.deltaTime * flickerSpeed);
-
-        //lightToFlicker.intensity = Mathf.Lerp(lightToFlicker.intensity, targetIntensity, Time.deltaTime * flickerSpeed);
-
-        //if (Mathf.Approximately(lightToFlicker.intensity, targetIntensity))
-        //{
-        //    targetIntensity = Random.Range(minIntensity, maxIntensity);
-        //}
+        float noise = Mathf.PerlinNoise(Time.time * timeScale * frequencyScale, 0f);
+        float flicker = Mathf.Lerp(baseIntensity, baseIntensity * intensityScale, noise);
+        lightToFlicker.intensity = flicker;
     }
 }
