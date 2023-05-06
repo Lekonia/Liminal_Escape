@@ -1,1 +1,1428 @@
-<mxfile host="Electron" modified="2023-04-15T06:05:09.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.2.4 Chrome/83.0.4103.104 Electron/9.0.4 Safari/537.36" etag="l2WDd4nQQElSNnOtyKDN" version="13.2.4" type="device" pages="2"><diagram id="OWWjhx43bJHUxAtt4HRS" name="Page-1">zVfbUtswEP2aPMI4zoXwWEJIodB2mgLhiVHsxVYja11Zxg5f35Ws4BgHhnagYSYZa49WWukcrdbu9MZJOVUsjS8wBNHxvbDs9I47vt/t+37H/LxwVSGjoQMixUPnVAMz/gAO9Bya8xCyhqNGFJqnTTBAKSHQDYwphUXT7Q5FM2rKIhfRq4FZwAS03K55qGO3C/+gxj8Dj+J15O7wsOpJ2NrZTZzFLMRiA+pNOr2xQtRVKynHIAx5a16qcSfP9D4uTIHUrxmQ/k6urvPT+WiynM/U6ngk02iv59amV+sNQ0j7dyYqHWOEkolJjR4pzGUIZlaPrNrnHDElsEvgL9B65cRkuUaCYp0I1wsl13MzfN8fOPNmo+u4dFNbY7U2pFar+aZxY6cYrM16mLXW49o0OeYyzFUAL3CzPm5MRaBf8HMH2hC3EcCJMAVMgNZDDgoE0/y+ebCYO5/Ro18tITWcin+hqJv3noncRbqUXJv4PylvspbeTTWLmGuYpcwSU1BKN5V7lsx7UBrKF7fven3P5cPqiV3U6dUdOizeSK2R906M+S3GpvwhwQ9A1ahJVc9/JVX996Kq36LqhKtME/QdVIaSGmOk9EMhQHX8oaAFHS1MKzKtK3/nnPZHH+34DVqcnmZZTjXPrImWRDdQDKbCsQQUM54cCrMQGZq6yhWVPW6p5zLNSYuxaRpNQrSzSNRV5RNoxhUxKGjPKhCX2f7O9RkM//HMv4U+F5dlyc8A2VHRv017U7w9D7ZcqBMZCsgMtT8QE/Pco/+MCoW5ZRUsKw2+84ApoxHPLKd5sDQvNMhlZOknaqNa3oyEoMeC3oKojtgJLtS+jbFAp+pECG7FDJg0D8gCltZa0rtEYhi40yb5PK2qSFw+eghmkxVSntGb2s7F7h42xR4etsX2B1vE7r7FDeclh5ezdArlybfbL2fxPP0K8Ra1x/mCWp8M6zGTUcWpcsIDbXaluZWO2ZRDQ30gMIPdF5DuoMlvf0sy/Wd+28WWYo0qfmOWSw3hxkm2V1wB3KYRZdDdnXVLU5BWh11fVk+KSf/gHfkls/5YsH0bn1y9yR8=</diagram><diagram id="b82AN6u6lCyhuYLlwNtT" name="Page-2">5Zpbb9sgFMc/jR9TGfAtj1vabtq0qVKkLX1EMYu9OiYjpE726Ydj8C1W7XT1hS3KA+cEDuHH38CxbaDF9viB4V3whfokMqDpHw10a0AIPAiN9Gv6J+mBjvRsWOhLX+FYhr+JdJrSewh9sq9U5JRGPNxVnWsax2TNKz7MGE2q1X7QqNrrDm9kj2bhWK5xRC6qfQ99HmReD7qF/yMJN4HqGTjz7JctVpVl4H2AfZqUXOjOQAtGKc9K2+OCRCk9xQUmePU1+kme+Df316fktLHcz7Ms2P01TfIhMBLztw2tMDzj6CCBycHykyLI6CH2SRrFNND7JAg5We7wOv01EaIRvoBvI2EBUWSUYx7SWJgz4KUNZAeEcXKsTUnLeEAOWciT0C3h7CTaqSiOnBepzJkn7aQ0zZb0BaUptlVDLKW1yWMX+ERBEryGprYwLbMdJoANMHPnm8O0tIVpw8nBtLWF6ViTg+loC9PtsGYODFPfDcjzJgfT0xYm6qDMps28P5ZzbVnCDsL0Glh6faFUuYCGLLucMhsvcmj2RhP8MzTzq368JRP0f2jfc0afyIJGlJ3joXvxMYfknC+dI3JG/wHnHN+InPXNm+oHqinQ1DdxqtNEE6Cpb+Y0h+0r6rBnKn0Tp3oWajWwHPiwD/TNnBxvenu9vrmTPb2TkwqsI03YvqMPumpCfXOn+i36CZyOFDwNaaJXKrNHmP0nSEPB7Ho46hGmvllQ/Tqfwg7UIQsisf8ufVwvrJjGpEqPHEO+kqDT8mOpfHssGydlxOKPr8rGo4qVGkWjs6VaZf+K+OqVgKtmRAyHHtiavFBPnrk5ZhvyYjyreYpLU2g3PZmWPkYiIbbn6iCaZlX28EBDMbxi160ryK0JIxunbFVo4yKQZVcDobrCMhAXgc4iy4f9F7rrkC/2pTtwYwJU1p5547h2i/7O1gNhoRg5YQOJUt0PblelO6YqHVAVkzV/pSrrgey6vPtWpb7ZTT1VNEc+jqP+Uxsf74NzazDkfWD3EmzjDQ2rN7IaJjqTUaW+ac3s4snP6DD1TWtmk1su9c1qZtAaDKYwi7dys12/eLkZ3f0B</diagram></mxfile>
+<mxfile host="Electron" modified="2023-05-01T08:09:11.701Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="KIkZSJTkRFJy25GXwejD" version="21.2.1" type="device" pages="3">
+  <diagram id="OWWjhx43bJHUxAtt4HRS" name="Page-1">
+    <mxGraphModel dx="1956" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pqmVWuIX8EkXSryD8npg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pqmVWuIX8EkXSryD8npg-1" target="pqmVWuIX8EkXSryD8npg-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqmVWuIX8EkXSryD8npg-1" value="Unity Tools" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pqmVWuIX8EkXSryD8npg-2" value="Gizmos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pqmVWuIX8EkXSryD8npg-4" value="First Person Controller&lt;br&gt;V2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pqmVWuIX8EkXSryD8npg-5" value="Issues with the camera view and direction input, it does not follow where the camera looks." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MUxxiJeoaBw4_p3Go_Lc-1" value="Endless Rooms - Star Trek, Picard is stuck going through the same bridge, Mr. Robot, Elliot cant escape the room after tring in the last episode" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="690" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0m9USpGexFO_KJhXpNeh-1" value="Cube: changing rooms everytime a door closes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="420" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0m9USpGexFO_KJhXpNeh-2" value="1408: haunted room and weird stuff happening" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="470" width="250" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="b82AN6u6lCyhuYLlwNtT" name="Page-2">
+    <mxGraphModel dx="1280" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="2waXNljektV7qJwyg47K-0" />
+        <mxCell id="2waXNljektV7qJwyg47K-1" parent="2waXNljektV7qJwyg47K-0" />
+        <mxCell id="2waXNljektV7qJwyg47K-27" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="160" y="-80" width="840" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="400" y="-80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-4" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="520" y="-80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-5" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="640" y="-80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-6" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="760" y="-80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-7" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="880" y="-80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-8" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="360" y="-80" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-9" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="280" y="-80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-10" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="160" y="-80" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-11" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="160" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-12" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#FFFF00;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="160" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-13" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#FFFF00;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="160" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-14" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="880" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-15" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="880" y="320" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-16" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="920" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-17" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="760" y="440" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-18" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="680" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-19" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="560" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-20" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="520" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-21" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="400" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-22" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="320" y="120" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-23" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="320" y="240" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-24" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="400" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-25" value="" style="endArrow=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="2waXNljektV7qJwyg47K-1" source="2waXNljektV7qJwyg47K-7" target="2waXNljektV7qJwyg47K-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-26" value="" style="endArrow=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.013;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2waXNljektV7qJwyg47K-1" source="2waXNljektV7qJwyg47K-11" target="2waXNljektV7qJwyg47K-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="490" as="sourcePoint" />
+            <mxPoint x="610" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-29" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="80" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-30" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;dashed=1;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="160" y="170" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-31" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-32" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="-160" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-33" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="-80" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2waXNljektV7qJwyg47K-34" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="2waXNljektV7qJwyg47K-1" vertex="1">
+          <mxGeometry x="-240" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rUXzVKnXxdcfp3iyt2YA" name="Beats Sheet">
+    <mxGraphModel dx="2480" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="840" width="7000" height="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-138" target="lCyjvH7Qmk7hc50kMmSe-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-136" target="lCyjvH7Qmk7hc50kMmSe-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-139" target="lCyjvH7Qmk7hc50kMmSe-227">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-141" target="lCyjvH7Qmk7hc50kMmSe-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-143" target="lCyjvH7Qmk7hc50kMmSe-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-146" target="lCyjvH7Qmk7hc50kMmSe-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-147" target="lCyjvH7Qmk7hc50kMmSe-287">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1920" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-149" target="lCyjvH7Qmk7hc50kMmSe-337">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-151" target="lCyjvH7Qmk7hc50kMmSe-342">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-154" target="lCyjvH7Qmk7hc50kMmSe-347">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-156" target="lCyjvH7Qmk7hc50kMmSe-351">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-158" target="lCyjvH7Qmk7hc50kMmSe-356">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-159" target="lCyjvH7Qmk7hc50kMmSe-361">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;endArrow=none;endFill=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-165" target="lCyjvH7Qmk7hc50kMmSe-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-247" target="lCyjvH7Qmk7hc50kMmSe-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-316" target="lCyjvH7Qmk7hc50kMmSe-310">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-318" target="lCyjvH7Qmk7hc50kMmSe-324">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2879.9655172413795" y="1439.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-319" target="lCyjvH7Qmk7hc50kMmSe-325">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3159.9655172413795" y="1439.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-21" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="520" width="3800" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-22" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3700CC;glass=0;fillColor=#6a00ff;fontColor=#ffffff;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1240" width="6520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1280" width="6520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-24" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1320" width="6520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-25" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="-680" width="2240" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="-440" width="360" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-28" target="lCyjvH7Qmk7hc50kMmSe-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-28" value="Player is stranded and heads to town for help" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="280" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-29" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-30" target="lCyjvH7Qmk7hc50kMmSe-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-30" value="Player realises everything is closed and it is getting very late, they need to find a hotel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="280" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-31" value="Player goes to sleep and find a mechanic the next day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="280" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-33" target="lCyjvH7Qmk7hc50kMmSe-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-33" value="Weather event" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-35" target="lCyjvH7Qmk7hc50kMmSe-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1080" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-35" value="Car breaks down" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-37" target="lCyjvH7Qmk7hc50kMmSe-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-37" value="Out of fuel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-39" target="lCyjvH7Qmk7hc50kMmSe-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-39" value="Player finds themselves stranded on the road" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-41" target="lCyjvH7Qmk7hc50kMmSe-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-41" value="Player discovers a path leading through a forest and into a ghost town" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-43" target="lCyjvH7Qmk7hc50kMmSe-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-43" value="It is late and the player must find an inn to rest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-45" target="lCyjvH7Qmk7hc50kMmSe-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-45" value="Player wakes up and attempts to find mechanic, begins to explore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-46" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-47" target="lCyjvH7Qmk7hc50kMmSe-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-47" value="Player finds strange object, will try to enquire about the object" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-51" target="lCyjvH7Qmk7hc50kMmSe-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-51" target="lCyjvH7Qmk7hc50kMmSe-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-51" target="lCyjvH7Qmk7hc50kMmSe-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-51" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-53" target="lCyjvH7Qmk7hc50kMmSe-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-53" value="Player is at inn to rest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-55" target="lCyjvH7Qmk7hc50kMmSe-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-55" value="Player is told where to find the mechanic&#39;s shop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-56" value="Player sees the town changing as it decays" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-58" target="lCyjvH7Qmk7hc50kMmSe-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-58" value="Player is searching the town to stop the time loop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-60" target="lCyjvH7Qmk7hc50kMmSe-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1360" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-60" value="Weather event" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-61" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-62" target="lCyjvH7Qmk7hc50kMmSe-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1360" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-62" value="Car breaks down" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-64" target="lCyjvH7Qmk7hc50kMmSe-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1360" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-64" value="Out of fuel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-68" target="lCyjvH7Qmk7hc50kMmSe-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-68" target="lCyjvH7Qmk7hc50kMmSe-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-68" target="lCyjvH7Qmk7hc50kMmSe-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-68" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-69" value="Open environment&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="-400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-70" value="Interact with all the NPCs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="-400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-71" value="Literal ghosts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="-280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-72" value="You realise the town was dead all along" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="-280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-73" value="Player has a notebook to make notes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="-160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-74" value="Keywords and Phrases" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="-480" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-75" value="Once upon a time there was Gundus.&lt;br&gt;&lt;br&gt;Every so often they would take a long drive for their work.&lt;br&gt;&lt;br&gt;One day as they were driving down the road, Gundus would see a bright flash in the middle of a forest and a few moments their vehicle would suddenly stop and shutdown.&lt;br&gt;&lt;br&gt;Because of that, Gundus had to find somewhere near that could help them fix" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-480" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-76" value="The ending.&lt;br&gt;&lt;br&gt;Gundus manages to stop the time loops&lt;br&gt;&lt;br&gt;Gundus discovers the town was dead all along and that time loop was the only thing keeping it alive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-480" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-77" value="The essence.&lt;br&gt;&lt;br&gt;Trapped in a time loop, Gundus must solve the mystery of the town to find a way out and save the town." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-480" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-78" value="Is the player responsible for the time loop in the first place" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="-640" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-79" value="&lt;div&gt;but essentially the player is driving with their friend in the passenger seat on their way to back to their home town which they haven&#39;t been in since an accident around a year ago&lt;/div&gt;&lt;div&gt;[13:10]&lt;/div&gt;&lt;div&gt;the player gets a little sleepy and crashes into a tree which when they wake up find they are unhurt by&lt;/div&gt;&lt;div&gt;[13:10]&lt;/div&gt;&lt;div&gt;they think their friend is hurt but look over to find them already outside of the car&lt;/div&gt;&lt;div&gt;[13:11]&lt;/div&gt;&lt;div&gt;your friend then runs into town yelling at you to meet them at a certain spot when you&#39;ve gotten someone to look at the car&lt;/div&gt;&lt;div&gt;[13:12]&lt;/div&gt;&lt;div&gt;once you have talked to the mechanic you go to see your friend and they point you to areas around the town to check up on since you haven&#39;t been there for a while (edited)&lt;/div&gt;&lt;div&gt;[13:12]&lt;/div&gt;&lt;div&gt;your friend doesnt move around like the other npcs and instead seems to just appear in random locations as your explore around the town (edited)&lt;/div&gt;&lt;div&gt;[13:13]&lt;/div&gt;&lt;div&gt;(this hints at something that is different about your friend)&lt;/div&gt;&lt;div&gt;[13:13]&lt;/div&gt;&lt;div&gt;as you start to find more and more about this secret hidden in the town with your friend you come to a long hallway&lt;/div&gt;&lt;div&gt;[13:14]&lt;/div&gt;&lt;div&gt;your friend screams out for you and you run through a door only to find it is a hospital operating room&lt;/div&gt;&lt;div&gt;[13:14]&lt;/div&gt;&lt;div&gt;you turn around to find the door you came through is gone and instead is replaced by a hospital hallway&lt;/div&gt;&lt;div&gt;[13:14]&lt;/div&gt;&lt;div&gt;your friend is on the operating table being treated from a car crash&lt;/div&gt;&lt;div&gt;[13:15]&lt;/div&gt;&lt;div&gt;your player then hyperventilates and returns to the car ride only to crash again&lt;/div&gt;&lt;div&gt;[13:15]&lt;/div&gt;&lt;div&gt;this time your friend is no where to be seen&lt;/div&gt;&lt;div&gt;[13:15]&lt;/div&gt;&lt;div&gt;there was no one in your passenger seat when you crashed&lt;/div&gt;&lt;div&gt;[13:16]&lt;/div&gt;&lt;div&gt;you get out of your car and do the same routine only to find something else through the doors where you first found your friend being operated on. the hallway continues to an old hideout you used to hang out with your friend in (edited)&lt;/div&gt;&lt;div&gt;[13:17]&lt;/div&gt;&lt;div&gt;your new goal is to try and find your friend around the town, learn about the town and find out about the &#39;secret&#39; you were uncovering about the town with your friend previously (edited)&lt;/div&gt;&lt;div&gt;[13:17]&lt;/div&gt;&lt;div&gt;the main character you play as is in denial&lt;/div&gt;&lt;div&gt;[13:18]&lt;/div&gt;&lt;div&gt;they refuse to accept that their friend died from the crash&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-40" width="1280" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-81" target="lCyjvH7Qmk7hc50kMmSe-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-81" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-83" target="lCyjvH7Qmk7hc50kMmSe-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-83" value="Player is driving the car with his friend on a roadtrip to their old hometown" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-85" target="lCyjvH7Qmk7hc50kMmSe-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1080" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-85" value="Player is tired, falls asleep and crashes the car" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-87" target="lCyjvH7Qmk7hc50kMmSe-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-87" value="Player wakes up unhurt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-89" target="lCyjvH7Qmk7hc50kMmSe-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-89" value="Friend is outside of the car heading to a path into town" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-91" target="lCyjvH7Qmk7hc50kMmSe-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-91" value="Friend tells player to meet at a spot in town" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-93" target="lCyjvH7Qmk7hc50kMmSe-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-93" value="Player is tasked with finding a mechanic before meeting at the spot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-95" target="lCyjvH7Qmk7hc50kMmSe-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1430.0344827586207" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-140" y="620" />
+              <mxPoint x="-140" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-95" value="Player speaks to mechanic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-97" target="lCyjvH7Qmk7hc50kMmSe-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-97" value="Player meets up with friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;endArrow=none;endFill=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-99" target="lCyjvH7Qmk7hc50kMmSe-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-99" value="Player walks around, then their friend tells about PoI&#39;s in town" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-101" target="lCyjvH7Qmk7hc50kMmSe-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-101" value="Player interacts with the NPCs discovering a secret no one really wants to talk about" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-103" target="lCyjvH7Qmk7hc50kMmSe-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-103" value="Player finds themselves in a long hallway at a hospital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-105" target="lCyjvH7Qmk7hc50kMmSe-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-105" value="Player cannot see their friend and calls out for them" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-107" target="lCyjvH7Qmk7hc50kMmSe-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-107" value="Player hears a scream that sounds like their friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-109" target="lCyjvH7Qmk7hc50kMmSe-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-109" value="Player comes across a door leading to an operating room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-111" target="lCyjvH7Qmk7hc50kMmSe-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="620" />
+              <mxPoint x="1140" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-111" value="Player sees their friend on a gurney as a result from a crash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-113" target="lCyjvH7Qmk7hc50kMmSe-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-113" value="Player begins to panic and re-awakens in the car driving just like in the start of the game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-115" target="lCyjvH7Qmk7hc50kMmSe-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-115" value="Player notices that they are in the car alone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-117" target="lCyjvH7Qmk7hc50kMmSe-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-117" value="Player crashes again" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-119" target="lCyjvH7Qmk7hc50kMmSe-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-119" value="Player heads into town again after the crash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-121" target="lCyjvH7Qmk7hc50kMmSe-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-121" value="Player find themselves at the same hallway as the operating room" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-123" target="lCyjvH7Qmk7hc50kMmSe-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-123" value="Player moves and it changes into an old hangout they player and friend used to hang out" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-124" value="Player looks around town trying to discover the secret it holds while trying to find their friend" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-125" value="Key note: player does not see his friend walk with him" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-126" value="Key note: This may actually be an alley way with a door the player will go through which becomes a hospital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="600" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-127" value="Two Time loop events" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-128" value="With Friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-129" value="Without Friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-99" target="lCyjvH7Qmk7hc50kMmSe-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-131" value="Key note:Player is in denial of the death of their friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="680" width="920" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-133" target="lCyjvH7Qmk7hc50kMmSe-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-133" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-214" target="lCyjvH7Qmk7hc50kMmSe-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-216" target="lCyjvH7Qmk7hc50kMmSe-138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-260" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-136" value="Player is tired, falls asleep and crashes the car" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-238" target="lCyjvH7Qmk7hc50kMmSe-247">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-138" value="Player wakes up unhurt, for a moment they are alone, then sees their friend outside, who is going for help" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-139" value="Player finds the path&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-141" target="lCyjvH7Qmk7hc50kMmSe-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-141" value="Player is at the town" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-143" target="lCyjvH7Qmk7hc50kMmSe-146">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369.9655172413793" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1660" y="940" />
+              <mxPoint x="1660" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-143" value="Player finds mechanic and sets out to find friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-144" value="Player is exploring the people and layout of the town" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-146" target="lCyjvH7Qmk7hc50kMmSe-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-146" value="Player meets up and walks with friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-147" value="Player walks around, then their friend tells about PoI&#39;s in town, Player interacts with the NPCs discovering a secret no one really wants to talk about" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="880" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-370" target="lCyjvH7Qmk7hc50kMmSe-149">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="3690" y="990" as="sourcePoint" />
+            <mxPoint x="3600" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-149" value="Player sees their friend on a gurney as a result from a crash and begins to panic and faints" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-151" target="lCyjvH7Qmk7hc50kMmSe-154">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4320" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-151" value="Player begins to wake as they are in the car just about to crash into the tree, Player notices that they are in the car alone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-380" target="lCyjvH7Qmk7hc50kMmSe-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-154" target="lCyjvH7Qmk7hc50kMmSe-380">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-154" value="Player heads back to Town, heading back to the hallway while trying to understand what happened and find their friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-156" target="lCyjvH7Qmk7hc50kMmSe-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-156" value="Player find themselves at the same hallway as the operating room" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="4480" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-392" target="lCyjvH7Qmk7hc50kMmSe-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-158" value="Player moves and it changes into an old hangout the player and friend used to hang out" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-159" value="Player looks around town trying to discover the secret it holds while trying to find their friend" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-160" value="Key note: player does not see his friend walk with him" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1000" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-147" target="lCyjvH7Qmk7hc50kMmSe-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-162" value="Key note:Player is in denial of the death of their friend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-163" value="Player presses start, menu disappears&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="1680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-164" value="Menu background is the game itself and ready to play" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="1800" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-165" value="Player is driving the car with his friend on a roadtrip to their old hometown" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-166" value="Dialogue is about why they are heading back to their old hometown and about a supposed secret that exists in town." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-167" value="Note: Change from non-interactive dialogue to simple liner-choice dialogue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;glass=0;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="2200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-168" value="Note: Please refer to the screenplay for dialogue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;glass=0;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-169" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-170" value="Establishing the mood and ambience" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-171" value="Camera is up high looking into the horizon" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="1800" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-172" value="Camera pans down to a top view of a road" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="1840" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-173" value="Camera pans down to a top view of a road" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="1880" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-174" value="Camera lowers into interior of the car" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="1920" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-175" value="No Action" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-176" value="Friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-177" value="Beat Time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1400" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-178" value="Story Beat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-179" value="Game Objectives" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-180" value="Action" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-181" value="Cutscene / Cinematography" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1800" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-182" value="Dialogue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="2120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-183" value="Total Time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1440" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-184" value="Dialogue - Notes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;glass=0;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="2200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-185" value="Dialogue - Characters" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="2080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-186" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-187" value="Friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-188" value="Players friend was/is dying and taking to their hometown to pass away peacefully there, the secret was an experimental drug they were trialling out for a terminal disease they were suffering but it didnt work" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-189" value="Action - Notes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-190" value="Note: Have flashback scenes that are interactive?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-191" value="Note: Player is a child replaying the flashback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-192" value="During flashback, player can hear the voiceover, narrating what is happening in the flashback" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-193" value="Screenplay Scene #" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="2320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-194" value="1 INT. CAR - DAY" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-195" value="Transition between time.&lt;br&gt;&lt;br&gt;Day to afternoon" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="1480" width="120" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-196" value="2 INT. CAR - AFTERNOON" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-197" value="Camera is in front of player, outside of the car" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1800" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-198" value="Camera Close up of player nodding (drifting to sleep) while driving" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1840" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-199" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-200" value="2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-201" value="3" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1880" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-202" value="4" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1920" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-203" value="Camera outside of car and behind as the car sways" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1920" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-204" value="Camera POV player as they wake up and crash into a tree" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1960" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-205" value="No Action" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-206" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-207" value="2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1840" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-208" value="3" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1920" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-209" value="4" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1960" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-210" value="Game Objective- Notes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-211" value="Let player take control of dialogue*" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-212" value="Note: Game objective only if dialogue tree is possible, otherwise, none." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1600" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-213" value="The crash that will start the journey" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-214" value="Transition" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-165" target="lCyjvH7Qmk7hc50kMmSe-214">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-840" y="940" as="sourcePoint" />
+            <mxPoint x="-640" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-216" value="Transition" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-217" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-136" target="lCyjvH7Qmk7hc50kMmSe-216">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-440" y="940" as="sourcePoint" />
+            <mxPoint x="-160" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-218" value="Transition between time.&lt;br&gt;&lt;br&gt;Afternoon" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1480" width="120" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-219" value="Cutscene - Notes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;glass=0;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="2000" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-220" value="Note: Player is not seen, Camera placement needs change (1 - 2)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;glass=0;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="2000" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-221" value="Note: If interactive, player can click on dialogue choice of response" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1720" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-222" value="POV, Player looks around" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1800" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-223" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1800" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-224" value="Player re-orients after the crash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-225" value="3 INT. CAR - AFTERNOON" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-226" value="5 EXT. DIRT PATH - EVENING" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-227" value="Players journey through the path to town" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-228" value="Dialogue is the player inner monologue not recognising the path but in the distance, they can tell that the town is nearby, odd that it was suppose to be further away however" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-229" value="4 EXT. CAR - EVENING" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-230" value="POV - Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1800" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-231" value="Player can now move" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1680" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-232" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1800" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-233" value="Player decides to look for player and steps out of the car" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-234" value="Player must now explore and find the dirt path" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1560" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-235" value="Dialogue is an inner monologue about their friend and seeking to find them after waiting for a long time" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-236" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2080" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-237" value="Time Transition&lt;br&gt;&lt;br&gt;Afternoon to Evening" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1480" width="120" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-238" value="Transition" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-138" target="lCyjvH7Qmk7hc50kMmSe-238">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="940" as="sourcePoint" />
+            <mxPoint x="320" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-240" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-247" target="lCyjvH7Qmk7hc50kMmSe-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="760" as="sourcePoint" />
+            <mxPoint x="520" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-139" target="lCyjvH7Qmk7hc50kMmSe-141">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="940" as="sourcePoint" />
+            <mxPoint x="960" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-242" value="Note: From here on, the camera stays as POV" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;glass=0;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="2000" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-243" value="Dialogue is about the player calling out the friend, then the friend appearing telling the player to say put as they will get help" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-244" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-245" value="Friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-246" value="Friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-247" value="Player has waited for a long time and decided to follow where the friend went and find them" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-248" value="No Action" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-249" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Act - 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1080" width="1840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-250" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Act - 2A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1080" width="1920" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-251" value="Note: Act - 1 sould not last longer than 5 minutes as it is mostly a non interactive cutscene, unless the dialogue is made interactive" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1160" width="1840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-252" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Act - 2B&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="1080" width="1960" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-253" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Act - 3&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="1080" width="680" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-254" value="No Dialogue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-255" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-256" value="Friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-257" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2080" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-258" value="Player is exploring the town" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-259" value="6 EXT. TOWN - EVENING" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-260" value="Dialogue is the player exploring a little of the town while trying to find an inn and talking to the concierge to stay and ask where a mechanic is to talk to them in the morning" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-261" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-262" value="Player is to explore the town and find an inn to stay the night and rest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-263" value="Player can interact with objects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-264" value="Time Transition&lt;br&gt;&lt;br&gt;Evening to Day" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1480" width="120" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-265" value="Transition" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-266" value="7 EXT. TOWN - DAY" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-267" value="POV - Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1800" width="1000" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-268" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1800" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-269" value="Friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-270" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-271" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-272" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1320" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-273" value="Dialogue is the player interacting with the mechanic and some of the townsfolk trying to find his friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-274" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-275" value="Town" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3700CC;glass=0;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-276" value="Player dialogue interaction with NPCs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-277" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1320" width="1040" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-278" value="Town" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3700CC;glass=0;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-279" value="Player is set to learn more about the town and its people and their history in it" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-280" value="Player finally finds their friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-281" value="Player is to find their friend talk and explore the town further" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-282" value="Player walks with friend and interacts through dialogue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1680" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-283" value="Dialogue is the player inquiring the friend as to where they were and why they didnt send help" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-284" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-285" value="8 EXT. TOWN - DAY" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-286" value="Friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-287" value="Player walks around to where friend suggests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1480" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-288" value="Player is to learn about the history of the town and its people and its secret" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1560" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-289" value="Dialogue is the Player, Friend and Townsfolk about their history and whom they are, along the dialogue the Friend will hint at the secret and discover what that secret was, but the town is reluctant to talk about it" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="2120" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-290" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="2080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-291" value="9 EXT. TOWN - DAY" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="2320" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-292" value="Friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="2080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-293" value="Key note: player does not see his friend walk with him" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-294" value="Time Transition&lt;br&gt;&lt;br&gt;Day to Afternoon" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="1480" width="120" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-296" target="lCyjvH7Qmk7hc50kMmSe-316">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-296" value="Transition" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-297" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-147" target="lCyjvH7Qmk7hc50kMmSe-296">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2280" y="940" as="sourcePoint" />
+            <mxPoint x="2800" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-298" value="Town" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3700CC;glass=0;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="2080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-299" value="Town" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3700CC;glass=0;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1240" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-300" value="Friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1280" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-301" value="Town" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3700CC;glass=0;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="920" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-302" value="Town" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3700CC;glass=0;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-303" value="Characters" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1240" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-304" value="Act" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1080" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-305" value="Act - Notes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-306" value="No Objectives" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-307" value="No Objectives" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-308" value="POV - Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="1800" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-309" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1800" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-310" value="Player after sometime has lost his friend but wanders into an alleyway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-311" value="10 EXT. TOWN - AFTERNOON" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-312" value="Dialogue is Player calling out then inner monologue wondering where their friend is then overhearing them possibly in an alleyway" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-313" value="Player moves to the alleyway" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-314" value="Player has to explore a dark alley to find their friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-315" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-316" target="lCyjvH7Qmk7hc50kMmSe-318">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-316" value="Player has lost their friend but may have heard them in an alleyway, they must explore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-317" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-318" target="lCyjvH7Qmk7hc50kMmSe-319">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-318" value="Player enters a door in the alleyway that leads into a hospital hallway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-319" value="Player hears a scream that sounds like their friend until they find a door that leads into an operating room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="880" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-319" target="lCyjvH7Qmk7hc50kMmSe-149">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3559.999999999999" y="940" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="3290" y="940" />
+              <mxPoint x="3290" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-321" value="Key note: This may actually be an alley way with a door the player will go through which becomes a hospital" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1000" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-322" value="Player has quest to investigate the scream" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-323" value="Player interacts with door and moves through" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-324" value="Player enters door and explores a hallway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-325" value="Player thinks they can hear the pained screams of their friend somewhere" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-326" value="Player interacts with door and opens" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-327" value="Player moves through hallway" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-328" value="No Dialogue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-329" value="Dialogue is Player hearing their friend scream and inner monologue trying to find their friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-330" value="11 INT. HALLWAY" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-331" value="12 INT. HALLWAY" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-332" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="2080" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-333" value="Friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-334" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1320" width="1080" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-335" value="Friend" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;glass=0;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1280" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-336" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-337" value="Player opens door to an operating room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-338" value="Player has to open the door to the operating room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-339" value="Player goes to open the operating room door then player has no control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-340" value="Dialogue is the Player calling out and trying to find his friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-341" value="13 INT. OPERATING ROOM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-342" value="Player awakes, looks around, notices they are in the car just about to crash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-343" value="No Objective" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-344" value="No Action" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-345" value="Dialogue is the player waking up in a car confused then shocked as they crash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-346" value="14 INT. CAR - DAY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-347" value="Player heads back to where they last saw their friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-348" value="Player must find friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-349" value="Player can move and interact with NPCs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-350" value="Dialogue is Player inner monologue trying to figure things out" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-351" value="Player finds their way back to the operating room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4480" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-352" value="Player must head to operating room door" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4480" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-353" value="Player can move and interact with operating room door" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4480" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-354" value="No Dialogue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4480" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-355" value="16 INT. HALLWAY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4480" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-356" value="Player finds the door to the operating room but it leads to an old hangout instead" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-357" value="Player must walk through door" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-358" value="Player can move through door" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-359" value="Dialogue is player confused about where the door leads to" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-360" value="17 INT. HALLWAY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-361" value="Player is travelling through town and interacting with NPCs from different time periods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-362" value="Player must complete objective about learning of the secret and find their friend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-363" value="Player can move and interact throughout the town" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="1680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-364" value="Dialogue is the player interacting and inner monologue about what the player is learning of the secret" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="2120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-365" value="18 EXT. TOWN - AFTERNOON" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-366" value="POV - Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="1800" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-367" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="1800" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-368" value="Time Transition&lt;br&gt;&lt;br&gt;Afternoon to Day (Time Loop)" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="3600" y="1480" width="120" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-370" target="lCyjvH7Qmk7hc50kMmSe-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-370" value="Transition" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3600" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-371" value="Note: Player will open door, see their friend for a moment and the player&#39;s vision will distort then fade to black" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="1960" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-372" value="POV - Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="3800" y="1800" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-373" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="1800" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-374" value="Note: Player&#39;s vision will come from being blacked out to crashing the car" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="2000" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-375" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="2080" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-376" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="2080" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-377" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="2080" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-378" value="15 EXT. TOWN - DAY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="2320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-379" value="Time Transition&lt;br&gt;&lt;br&gt;Day to Evening&lt;br&gt;&amp;nbsp;(Time Loop)" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="4320" y="1480" width="120" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-380" value="Transition" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="4320" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-381" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="1320" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-382" value="POV - Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="4080" y="1800" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-383" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="1800" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-384" value="Note: Time of day becomes desorienting, it moves fast or randomly, the townsfalk become more ghost like and the town changes with each loop and differenct dialogue occurs as it all starts to fade" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3600" y="1000" width="1840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-385" value="Note: At point of time loop, the alleyway entry is randomly placed in town each loop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-386" value="The operating room changes every time the player opens the door" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-387" value="POV - Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="1800" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-388" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="4480" y="1800" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-389" value="Note: Everyone is silent until player says something" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;glass=0;fillColor=#fa6800;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-390" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="4480" y="1320" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-391" value="Time Transition&lt;br&gt;&lt;br&gt;Evening to Afternoon&lt;br&gt;or&lt;br&gt;Random time of day&lt;br&gt;&amp;nbsp;(Time Loop)" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="5040" y="1480" width="120" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-392" value="Transition" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="5040" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-393" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="lCyjvH7Qmk7hc50kMmSe-158" target="lCyjvH7Qmk7hc50kMmSe-392">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5000" y="940" as="sourcePoint" />
+            <mxPoint x="5200" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-394" value="POV - Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="5240" y="1800" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-395" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="1800" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-396" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="1320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-397" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="4480" y="2080" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-398" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="2080" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-399" value="Player" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;glass=0;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="2080" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-400" value="Note: Portal to another environment to disorient the player" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="1600" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-401" value="Note: Portal to another place in town and another time? the past?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="1720" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-402" value="Player is unable to accept the death of their friend, knowing they were going to die no matter what would happen, that is the denial" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="40" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-403" value="A pandemic had swept the town and afflicted the children of a terminal disease, doctors were trialing out experimental tests to find a cure or treat the ailment, many of the kids were cured in the end but not the Players friend, ultimately they would die, the player resents and was never able to accept what had happened to his friend which is why he is stuck in his own mental loop" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="40" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="lCyjvH7Qmk7hc50kMmSe-404" value="Key Note: Remoce the time loop for another game" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3600" y="2400" width="1880" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
