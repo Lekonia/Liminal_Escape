@@ -1,6 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Rendering;
 using UnityEngine.Rendering.HighDefinition;
 
 /*
@@ -22,15 +21,32 @@ public class FogController : MonoBehaviour
         if (RenderPipelineManager.currentPipeline is HDRenderPipeline)
         {
             volume = gameObject.AddComponent<Volume>();
+            VolumeProfile profile = volume.sharedProfile;
 
+            if (profile == null)
+                profile = ScriptableObject.CreateInstance<VolumeProfile>();
+
+            volume.sharedProfile = profile;
+
+            Fog fog;
+            if (profile.TryGet(out fog))
+            {
+                fog.enabled.value = true;
+                fog.albedo.value = fogColor;
+                fog.meanFreePath.value = density * 10f;
+                fog.maximumHeight.value = areaSize;
+            }
         }
 
-        RenderSettings.fog = true;
-        RenderSettings.fogColor = fogColor;
-        RenderSettings.fogDensity = density;
-        RenderSettings.fogMode = FogMode.Linear;
-        RenderSettings.fogStartDistance = 0f;
-        RenderSettings.fogEndDistance = areaSize;
+        else
+        {
+            RenderSettings.fog = true;
+            RenderSettings.fogColor = fogColor;
+            RenderSettings.fogDensity = density;
+            RenderSettings.fogMode = FogMode.Linear;
+            RenderSettings.fogStartDistance = 0f;
+            RenderSettings.fogEndDistance = areaSize;
+        }        
     }
 
     private void OnDrawGizmosSelected()
